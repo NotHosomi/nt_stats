@@ -27,12 +27,11 @@
 1:59236187 Shazam
 1:45891833 Snoopkirb
 0:8714446 xx
-8 FLRK
+7 FLRK
 0:91453626 Lamhfhada
 0:24547252 Peoplelover
 1:129129962 Nice
 1:80317745 hy4cin7h
-0:24547252 PeopleLover
 0:13655152 Hearts
 1:32550909 Ninja-Foxy
 0:31623405 Devastator

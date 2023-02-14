@@ -52,8 +52,8 @@ void FileParser::parseLog(std::filesystem::path path, std::unordered_map<std::st
     for (auto& m : maps)
         if (m.name == round_data[1])
             current_map = &m;
-
     ++current_map->count;
+
     for (int i = 0; i < teams->size(); ++i)
     {
         if (team_tags.first == (*teams)[i].name)
@@ -125,7 +125,7 @@ void FileParser::saveStats(const std::unordered_map<std::string, Player>& player
 
 
     std::ofstream m_file = openFileW("map_stats.csv");
-    m_file << "Name,Plays,Kills,Caps\n";
+    m_file << "Name,Plays,Kills,Caps,\n";
     for (auto& m : maps)
     {
         m_file << m.name << "," << m.count << "," << m.kills << "," << m.caps << ",\n";
