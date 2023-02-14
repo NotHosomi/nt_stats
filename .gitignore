@@ -2,3 +2,4 @@
 *.7z
 *.png
 release/*
+*.csv
