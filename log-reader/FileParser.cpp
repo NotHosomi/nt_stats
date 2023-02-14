@@ -2,6 +2,7 @@
 #include <filesystem>
 #include <iostream>
 #include <array>
+#include <string>
 
 void FileParser::readPlayerData(std::filesystem::path path, std::unordered_map<std::string, Player>* players, std::vector<Team>* teams)
 {
@@ -116,7 +117,10 @@ void FileParser::saveStats(const std::unordered_map<std::string, Player>& player
                 if (!(*p)->weapon_kills.contains(s))
                     w_file << "0,";
                 else
-                    w_file << (*p)->weapon_kills.at(s)+",";
+                {
+                    int k = (*p)->weapon_kills.at(s);
+                    w_file << std::to_string(k) + ",";
+                }
             }
             w_file << "\n";                
         }
