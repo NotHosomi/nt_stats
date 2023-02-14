@@ -100,8 +100,8 @@ void FileParser::saveStats(const std::unordered_map<std::string, Player>& player
     std::ofstream w_file = openFileW("wep_stats.csv");
     p_file << "Name,Team,Kills,Deaths,Suicides,Caps,Assists,TKs,TKed,Maps,\n";
     t_file << "Name,Kills,Deaths,Suicides,Caps,Assists,TKs,TKed,Maps,\n";
-    w_file << "Name,Team,";
-    std::array<std::string, 22> weapons = { "mpn","srm","srm_s","jitte","jittescoped","zr68c","zr68s","zr68l","mx","mx_silenced","pz","supa7","aa13","srs","m41","m41s","kyla","tachi","milso","grenade","remotedet","knife" };
+    w_file << "Name,Team,Maps,";
+    std::array<std::string, 22> weapons = { "mpn","srm","srm_s","jitte","jittescoped","zr68c","zr68s","zr68l","mx","mx_silenced","pz","supa7","aa13","srs","m41","m41s","kyla","tachi","milso","grenade_projectile","grenade_detapack","knife" };
     for (auto& s : weapons)
         w_file << s + ",";
     w_file << "\n";
@@ -111,7 +111,7 @@ void FileParser::saveStats(const std::unordered_map<std::string, Player>& player
         for (auto p = t->roster.begin(); p != t->roster.end(); ++p)
         {
             p_file << (*p)->name + "," + t->name + "," + (*p)->csv() + "\n";
-            w_file << (*p)->name + "," + t->name + ",";
+            w_file << (*p)->name + "," + t->name + "," + std::to_string((*p)->maps) + ",";
             for (auto& s : weapons)
             {
                 if (!(*p)->weapon_kills.contains(s))

@@ -18,7 +18,7 @@ print("Done")
 df = pd.read_csv('player_stats.csv')
 df['avgDeath'] = df['Deaths']/df['Maps']
 df = df.sort_values(by=['avgDeath'], ascending=False)
-df = df.iloc[1:10]
+df = df.iloc[0:11]
 fig, ax = plt.subplots()
 ax.bar(df['Name'], df['Deaths']/df['Maps'], 0.5, label='Deaths')
 ax.set_ylabel('Average deaths per map')
@@ -34,7 +34,7 @@ print("Done")
 df = pd.read_csv('player_stats.csv')
 df['avgKills'] = df['Kills']/df['Maps']
 df = df.sort_values(by=['avgKills'], ascending=False)
-df = df.iloc[1:10]
+df = df.iloc[0:11]
 fig, ax = plt.subplots()
 ax.bar(df['Name'], df['Kills']/df['Maps'], 0.5, label='Kills')
 ax.set_ylabel('Average kills per map')
