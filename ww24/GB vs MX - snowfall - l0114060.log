@@ -1,0 +1,440 @@
+L 01/14/2024 - 19:38:30: Log file started (file "logs\L0114060.log") (game "z:\home\steam\steam\steamapps\common\nt\NeotokyoSource") (version "4044")
+L 01/14/2024 - 19:38:30: server_cvar: "sv_pausable" "0"
+L 01/14/2024 - 19:38:30: server_cvar: "sv_contact" "baux.site"
+L 01/14/2024 - 19:38:30: server_cvar: "sv_gravity" "800"
+L 01/14/2024 - 19:38:30: server_cvar: "mp_friendlyfire" "1"
+L 01/14/2024 - 19:50:34: "soft as HELL<3><STEAM_ID_PENDING><>" connected, address "94.30.149.189:27005"
+L 01/14/2024 - 19:50:35: "soft as HELL<3><STEAM_0:1:14747705><>" STEAM USERID validated
+L 01/14/2024 - 19:50:36: "soft as HELL<3><STEAM_0:1:14747705><>" entered the game
+L 01/14/2024 - 19:50:44: "soft as HELL<3><STEAM_0:1:14747705><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:50:53: "suna<4><STEAM_ID_PENDING><>" connected, address "91.101.200.241:27005"
+L 01/14/2024 - 19:50:53: "suna<4><STEAM_0:1:29157668><>" STEAM USERID validated
+L 01/14/2024 - 19:50:54: "suna<4><STEAM_0:1:29157668><>" entered the game
+L 01/14/2024 - 19:50:56: "suna<4><STEAM_0:1:29157668><Unassigned>" joined team "NSF"
+L 01/14/2024 - 19:51:12: "[MXican] Halcyon<5><STEAM_ID_PENDING><>" connected, address "90.190.171.21:27005"
+L 01/14/2024 - 19:51:12: "[MXican] Halcyon<5><STEAM_0:1:2864524><>" STEAM USERID validated
+L 01/14/2024 - 19:51:23: "[MXican] Halcyon<5><STEAM_0:1:2864524><>" entered the game
+L 01/14/2024 - 19:51:24: "[GB] Rain ☆彡<6><STEAM_ID_PENDING><>" connected, address "138.199.6.182:27005"
+L 01/14/2024 - 19:51:24: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><>" STEAM USERID validated
+L 01/14/2024 - 19:51:24: "Agiel<7><STEAM_ID_PENDING><>" connected, address "98.128.173.190:27006"
+L 01/14/2024 - 19:51:24: "Agiel<7><STEAM_0:1:25025><>" STEAM USERID validated
+L 01/14/2024 - 19:51:26: "Agiel<7><STEAM_0:1:25025><>" entered the game
+L 01/14/2024 - 19:51:26: "[MXican] Halcyon<5><STEAM_0:1:2864524><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:51:27: "suna<4><STEAM_0:1:29157668><>" disconnected (reason "Connection closing")
+L 01/14/2024 - 19:51:27: "suna<8><STEAM_ID_PENDING><>" connected, address "91.101.200.241:27005"
+L 01/14/2024 - 19:51:27: "suna<8><STEAM_0:1:29157668><>" STEAM USERID validated
+L 01/14/2024 - 19:51:28: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><>" entered the game
+L 01/14/2024 - 19:51:29: "Agiel<7><STEAM_0:1:25025><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:51:30: "suna<8><STEAM_0:1:29157668><>" entered the game
+L 01/14/2024 - 19:51:32: "suna<8><STEAM_0:1:29157668><Unassigned>" joined team "NSF"
+L 01/14/2024 - 19:51:34: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:51:54: "[MXican] NeoTokyoScrub<9><STEAM_ID_PENDING><>" connected, address "75.183.0.206:27005"
+L 01/14/2024 - 19:51:54: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><>" STEAM USERID validated
+L 01/14/2024 - 19:51:59: "Agiel<7><STEAM_0:1:25025><Spectator>" disconnected (reason "Agiel timed out")
+L 01/14/2024 - 19:52:02: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><>" entered the game
+L 01/14/2024 - 19:52:02: "Agiel<10><STEAM_ID_PENDING><>" connected, address "98.128.173.190:27005"
+L 01/14/2024 - 19:52:02: "Agiel<10><STEAM_0:1:25025><>" STEAM USERID validated
+L 01/14/2024 - 19:52:17: "Agiel<10><STEAM_0:1:25025><>" entered the game
+L 01/14/2024 - 19:52:24: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><Spectator>" joined team "NSF"
+L 01/14/2024 - 19:52:25: "Agiel<10><STEAM_0:1:25025><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:52:41: "soft as HELL<3><STEAM_0:1:14747705><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/14/2024 - 19:52:52: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:52:52: "[GB] Puddy<11><STEAM_ID_PENDING><>" connected, address "188.192.131.75:27005"
+L 01/14/2024 - 19:52:52: "[GB] Puddy<11><STEAM_0:1:19453780><>" STEAM USERID validated
+L 01/14/2024 - 19:52:56: "soft as HELL<12><STEAM_ID_PENDING><>" connected, address "94.30.149.189:27005"
+L 01/14/2024 - 19:52:56: "soft as HELL<12><STEAM_0:1:14747705><>" STEAM USERID validated
+L 01/14/2024 - 19:52:56: "[GB] Puddy<11><STEAM_0:1:19453780><>" entered the game
+L 01/14/2024 - 19:52:59: "soft as HELL<12><STEAM_0:1:14747705><>" entered the game
+L 01/14/2024 - 19:53:01: "Infrequent<13><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/14/2024 - 19:53:01: "Infrequent<13><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/14/2024 - 19:53:04: "[GB] Puddy<11><STEAM_0:1:19453780><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:53:05: "soft as HELL<12><STEAM_0:1:14747705><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:53:07: "soft as HELL<12><STEAM_0:1:14747705><Spectator>" joined team "NSF"
+L 01/14/2024 - 19:53:13: "Infrequent<13><STEAM_0:1:6384081><>" entered the game
+L 01/14/2024 - 19:53:15: "Infrequent<13><STEAM_0:1:6384081><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:53:24: "Infrequent<13><STEAM_0:1:6384081><Spectator>" changed name to "[CAST] Infrequent"
+L 01/14/2024 - 19:53:44: "[Hacked Camera] Oni<14><STEAM_ID_PENDING><>" connected, address "71.195.46.232:27005"
+L 01/14/2024 - 19:53:44: "[MXican] Halcyon<5><STEAM_0:1:2864524><Spectator>" joined team "NSF"
+L 01/14/2024 - 19:53:44: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><>" STEAM USERID validated
+L 01/14/2024 - 19:54:04: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><>" entered the game
+L 01/14/2024 - 19:54:05: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:54:06: "[MXican] Halcyon<5><STEAM_0:1:2864524><NSF>" say "helo gusy"
+L 01/14/2024 - 19:54:45: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:54:46: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:54:48: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:54:51: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:54:55: "Agiel<10><STEAM_0:1:25025><Spectator>" changed name to "[GB] Agiel"
+L 01/14/2024 - 19:54:56: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:55:02: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 19:55:42: Addip: "[CAST] Infrequent<13><STEAM_0:1:6384081><>" was kicked and banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: "[CAST] Infrequent<13><STEAM_0:1:6384081><Spectator>" disconnected (reason "Added to banned list")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:42: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 19:55:51: "bolty<15><STEAM_ID_PENDING><>" connected, address "84.106.144.11:27005"
+L 01/14/2024 - 19:55:51: "bolty<15><STEAM_0:1:84048595><>" STEAM USERID validated
+L 01/14/2024 - 19:55:59: "bolty<15><STEAM_0:1:84048595><>" entered the game
+L 01/14/2024 - 19:56:02: "bolty<15><STEAM_0:1:84048595><Unassigned>" joined team "Jinrai"
+L 01/14/2024 - 19:56:33: "[MXican] Halcyon<5><STEAM_0:1:2864524><NSF>" say "Great Britain vs MXico"
+L 01/14/2024 - 19:56:38: "[MXican] Nevra<16><STEAM_ID_PENDING><>" connected, address "91.160.146.84:14145"
+L 01/14/2024 - 19:56:38: "[MXican] Nevra<16><STEAM_0:1:87689215><>" STEAM USERID validated
+L 01/14/2024 - 19:56:41: "[MXican] Nevra<16><STEAM_0:1:87689215><>" entered the game
+L 01/14/2024 - 19:56:42: "[GB] Agiel<10><STEAM_0:1:25025><Spectator>" say "secretly scotland"
+L 01/14/2024 - 19:56:49: "[MXican] Halcyon<5><STEAM_0:1:2864524><NSF>" say "Aye"
+L 01/14/2024 - 19:56:58: "[MXican] Nevra<16><STEAM_0:1:87689215><Unassigned>" joined team "Jinrai"
+L 01/14/2024 - 19:57:16: "[MXican] Ghost Lizard<17><STEAM_ID_PENDING><>" connected, address "87.2.131.118:27005"
+L 01/14/2024 - 19:57:16: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><>" STEAM USERID validated
+L 01/14/2024 - 19:57:22: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><>" entered the game
+L 01/14/2024 - 19:57:26: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:58:25: "[MXican] Wahaha-<18><STEAM_ID_PENDING><>" connected, address "76.133.237.17:27005"
+L 01/14/2024 - 19:58:25: "[MXican] Wahaha-<18><STEAM_0:1:17526508><>" STEAM USERID validated
+L 01/14/2024 - 19:58:28: "bolty<15><STEAM_0:1:84048595><Jinrai>" changed name to "[MXican] Boltronics"
+L 01/14/2024 - 19:58:43: "[MXican] Wahaha-<18><STEAM_0:1:17526508><>" entered the game
+L 01/14/2024 - 19:58:45: "[MXican] Wahaha-<18><STEAM_0:1:17526508><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 19:58:46: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Spectator>" joined team "Jinrai"
+L 01/14/2024 - 19:58:49: "[MXican] Halcyon<5><STEAM_0:1:2864524><NSF>" joined team "Unassigned"
+L 01/14/2024 - 19:58:50: "[MXican] Halcyon<5><STEAM_0:1:2864524><Unassigned>" joined team "Jinrai"
+L 01/14/2024 - 19:58:59: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Spectator>" joined team "Jinrai"
+L 01/14/2024 - 19:59:07: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "play"
+L 01/14/2024 - 19:59:09: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "let wahaha play"
+L 01/14/2024 - 19:59:15: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "go play wahaha"
+L 01/14/2024 - 19:59:24: "[GB] Agiel<10><STEAM_0:1:25025><Spectator>" joined team "NSF"
+L 01/14/2024 - 19:59:27: "[GB] Puddy<11><STEAM_0:1:19453780><Spectator>" joined team "NSF"
+L 01/14/2024 - 19:59:36: "[MXican] Wahaha-<18><STEAM_0:1:17526508><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/14/2024 - 19:59:51: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "who's casting? :)"
+L 01/14/2024 - 20:00:00: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "INFREQ AND the other guy of his team"
+L 01/14/2024 - 20:00:03: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "forgot :D "
+L 01/14/2024 - 20:00:05: "suna<8><STEAM_0:1:29157668><NSF>" say "pissed"
+L 01/14/2024 - 20:00:07: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "ye"
+L 01/14/2024 - 20:00:13: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "hope they get the ban sorted out"
+L 01/14/2024 - 20:00:20: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "agiel you have to play and cast at the same time"
+L 01/14/2024 - 20:00:32: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "that will happen, POV stream and all"
+L 01/14/2024 - 20:00:48: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "yeah i will be streaming. can't call it casting though :D"
+L 01/14/2024 - 20:01:05: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "where's wahaha?"
+L 01/14/2024 - 20:01:10: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "sitting out"
+L 01/14/2024 - 20:01:12: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "!ready"
+L 01/14/2024 - 20:01:13: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "shame"
+L 01/14/2024 - 20:01:32: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "its thei name"
+L 01/14/2024 - 20:01:35: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "i was hoping for a bhop srs headshot repeat"
+L 01/14/2024 - 20:01:38: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "tell them to change their name and rejoin"
+L 01/14/2024 - 20:01:41: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "before doing ip"
+L 01/14/2024 - 20:02:09: "[DYS] bauxite<19><STEAM_ID_PENDING><>" connected, address "86.13.114.58:27005"
+L 01/14/2024 - 20:02:09: "[DYS] bauxite<19><STEAM_0:0:5757747><>" STEAM USERID validated
+L 01/14/2024 - 20:02:16: "[DYS] bauxite<19><STEAM_0:0:5757747><>" entered the game
+L 01/14/2024 - 20:02:18: "[DYS] bauxite<19><STEAM_0:0:5757747><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 20:02:22: Removeip: "<><><>" was unbanned by "Console" (IP "146.199.251.7")
+L 01/14/2024 - 20:02:36: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "other server for your stream baux"
+L 01/14/2024 - 20:02:42: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "baux please unjain infrequent"
+L 01/14/2024 - 20:02:46: "[DYS] You're Pissed Off<20><STEAM_ID_PENDING><>" connected, address "146.199.251.7:27005"
+L 01/14/2024 - 20:02:46: "[DYS] You're Pissed Off<20><STEAM_0:1:44658357><>" STEAM USERID validated
+L 01/14/2024 - 20:02:47: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "jail*"
+L 01/14/2024 - 20:02:54: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "scrub"
+L 01/14/2024 - 20:02:55: Removeip: "<><><>" was unbanned by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:02:56: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "come here"
+L 01/14/2024 - 20:03:08: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "scrub come to me"
+L 01/14/2024 - 20:03:10: "[CAST] Infrequent<21><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/14/2024 - 20:03:10: "[CAST] Infrequent<21><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/14/2024 - 20:03:15: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "okay"
+L 01/14/2024 - 20:03:19: "[CAST] Infrequent<21><STEAM_0:1:6384081><>" entered the game
+L 01/14/2024 - 20:03:20: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "can you rush this?"
+L 01/14/2024 - 20:03:33: "[DYS] bauxite<19><STEAM_0:0:5757747><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/14/2024 - 20:03:36: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "ill rush this"
+L 01/14/2024 - 20:04:00: Addip: "[CAST] Infrequent<21><STEAM_0:1:6384081><>" was kicked and banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:00: "[CAST] Infrequent<21><STEAM_0:1:6384081><Unassigned>" disconnected (reason "Added to banned list")
+L 01/14/2024 - 20:04:01: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:01: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:02: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:03: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:05: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:08: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:12: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:16: "[DYS] You're Pissed Off<20><STEAM_0:1:44658357><>" entered the game
+L 01/14/2024 - 20:04:18: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:27: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:30: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "we shouldnt stack too much"
+L 01/14/2024 - 20:04:31: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "recon"
+L 01/14/2024 - 20:04:37: "[DYS] You're Pissed Off<20><STEAM_0:1:44658357><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 20:04:39: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:04:59: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "!ready"
+L 01/14/2024 - 20:05:00: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:05:05: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "!ready"
+L 01/14/2024 - 20:05:20: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say "!ready"
+L 01/14/2024 - 20:05:23: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "!ready"
+L 01/14/2024 - 20:05:29: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:05:31: "suna<8><STEAM_0:1:29157668><NSF>" say "infreq coming?"
+L 01/14/2024 - 20:05:31: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "snowfall"
+L 01/14/2024 - 20:05:33: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "saitama"
+L 01/14/2024 - 20:05:34: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "snowfall, saitama, tetsu"
+L 01/14/2024 - 20:05:35: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "tetsu"
+L 01/14/2024 - 20:05:36: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "SNOWFALL, SAITAMA, TETSU IN THAT ORDER"
+L 01/14/2024 - 20:05:37: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "cheers"
+L 01/14/2024 - 20:05:44: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "!ready"
+L 01/14/2024 - 20:05:45: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "rain is assault"
+L 01/14/2024 - 20:05:51: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" say "!ready"
+L 01/14/2024 - 20:05:58: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "!ready"
+L 01/14/2024 - 20:06:02: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" say "!unready"
+L 01/14/2024 - 20:06:06: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say "[VGTG] I have the flag!"
+L 01/14/2024 - 20:06:12: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:06:16: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say "[VGS] Shazbot!"
+L 01/14/2024 - 20:07:12: Addip: "<><><>" was banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:07:32: "[DYS] bauxite<22><STEAM_ID_PENDING><>" connected, address "86.13.114.58:27005"
+L 01/14/2024 - 20:07:32: "[DYS] bauxite<22><STEAM_0:0:5757747><>" STEAM USERID validated
+L 01/14/2024 - 20:07:34: "[DYS] bauxite<22><STEAM_0:0:5757747><>" entered the game
+L 01/14/2024 - 20:07:37: "[DYS] bauxite<22><STEAM_0:0:5757747><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 20:07:42: Removeip: "<><><>" was unbanned by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:07:58: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "free infrequent \o/"
+L 01/14/2024 - 20:08:00: "[DYS] You're Pissed Off<20><STEAM_0:1:44658357><Spectator>" say "Can we enable the player markers for us too?"
+L 01/14/2024 - 20:08:06: "[CAST] Infrequent<23><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/14/2024 - 20:08:06: "[CAST] Infrequent<23><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/14/2024 - 20:08:08: "[CAST] Infrequent<23><STEAM_0:1:6384081><>" entered the game
+L 01/14/2024 - 20:08:10: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" say "i want them too"
+L 01/14/2024 - 20:08:10: "[CAST] Infrequent<23><STEAM_0:1:6384081><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 20:08:11: "[DYS] bauxite<22><STEAM_0:0:5757747><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/14/2024 - 20:08:13: Addip: "[CAST] Infrequent<23><STEAM_0:1:6384081><>" was kicked and banned by IP "for 1440.00 minutes" by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:08:13: "[CAST] Infrequent<23><STEAM_0:1:6384081><Spectator>" disconnected (reason "Added to banned list")
+L 01/14/2024 - 20:08:14: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "same"
+L 01/14/2024 - 20:10:08: Removeip: "<><><>" was unbanned by "Console" (IP "86.169.55.78")
+L 01/14/2024 - 20:10:16: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "oni, !setobserver if you want to highlight the player being spectated"
+L 01/14/2024 - 20:10:23: "[CAST] Infrequent<24><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/14/2024 - 20:10:23: "[CAST] Infrequent<24><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/14/2024 - 20:10:27: "[CAST] Infrequent<24><STEAM_0:1:6384081><>" entered the game
+L 01/14/2024 - 20:10:29: "[CAST] Infrequent<24><STEAM_0:1:6384081><Unassigned>" joined team "Spectator"
+L 01/14/2024 - 20:11:52: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "snowfall = GB pick"
+L 01/14/2024 - 20:11:58: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "saitama = MXicans pick"
+L 01/14/2024 - 20:12:02: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "tetsu = 3rd"
+L 01/14/2024 - 20:12:04: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "!ready"
+L 01/14/2024 - 20:13:13: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "to be clear, we're ready. just waiting for the stream"
+L 01/14/2024 - 20:13:21: "[Hacked Camera] Oni<14><STEAM_0:1:10174276><Spectator>" say "yea sorry for the wait"
+L 01/14/2024 - 20:13:26: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "We redi"
+L 01/14/2024 - 20:13:27: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "np"
+L 01/14/2024 - 20:13:32: "suna<8><STEAM_0:1:29157668><NSF>" say "!ready"
+L 01/14/2024 - 20:13:39: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say "!ready"
+L 01/14/2024 - 20:13:43: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "!ready"
+L 01/14/2024 - 20:13:49: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" say "!ready"
+L 01/14/2024 - 20:13:54: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "!readylist"
+L 01/14/2024 - 20:14:02: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "The swede isn't ready"
+L 01/14/2024 - 20:14:02: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "agiiel"
+L 01/14/2024 - 20:14:06: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "scottish swede"
+L 01/14/2024 - 20:14:12: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "!unready"
+L 01/14/2024 - 20:14:30: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "!ready"
+L 01/14/2024 - 20:14:36: "suna<8><STEAM_0:1:29157668><NSF>" say "!readylist"
+L 01/14/2024 - 20:14:43: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "scrub getting w'er"
+L 01/14/2024 - 20:14:50: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say "wotah"
+L 01/14/2024 - 20:16:03: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "whats this called"
+L 01/14/2024 - 20:16:08: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "this room"
+L 01/14/2024 - 20:16:24: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "next to elly spawn"
+L 01/14/2024 - 20:17:53: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "scrub"
+L 01/14/2024 - 20:18:05: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "!ready"
+L 01/14/2024 - 20:18:13: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "hfhf"
+L 01/14/2024 - 20:18:13: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "glhf"
+L 01/14/2024 - 20:18:15: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "wtf"
+L 01/14/2024 - 20:18:17: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "gl hf"
+L 01/14/2024 - 20:18:18: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" say "glhf"
+L 01/14/2024 - 20:18:20: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "i spawned with wrong gun"
+L 01/14/2024 - 20:18:42: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "srm"
+L 01/14/2024 - 20:18:46: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:18:48: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "srm"
+L 01/14/2024 - 20:18:48: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:18:48: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "100 Assault srm"
+L 01/14/2024 - 20:18:50: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "supa7"
+L 01/14/2024 - 20:18:50: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "20 Recon supa7"
+L 01/14/2024 - 20:19:09: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "suna was in that spot in security"
+L 01/14/2024 - 20:19:13: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "2 ghost"
+L 01/14/2024 - 20:19:20: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "mpn"
+L 01/14/2024 - 20:19:24: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:19:24: "suna<8><STEAM_0:1:29157668><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:19:25: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "32 Assault zr68s"
+L 01/14/2024 - 20:19:25: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "zr68s"
+L 01/14/2024 - 20:19:25: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:19:25: "suna<8><STEAM_0:1:29157668><NSF>" say_team "32 Assault zr68s"
+L 01/14/2024 - 20:19:27: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say_team "did we have any recons go server?"
+L 01/14/2024 - 20:19:28: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "srm"
+L 01/14/2024 - 20:19:28: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:19:28: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "ai"
+L 01/14/2024 - 20:19:30: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "srm"
+L 01/14/2024 - 20:19:30: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:19:32: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "gj"
+L 01/14/2024 - 20:19:40: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "nbo"
+L 01/14/2024 - 20:19:44: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "no"
+L 01/14/2024 - 20:19:51: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "ill go showers"
+L 01/14/2024 - 20:20:12: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "srm"
+L 01/14/2024 - 20:20:13: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:20:13: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:20:13: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:20:13: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:20:16: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "1 shower"
+L 01/14/2024 - 20:20:18: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "1 shower"
+L 01/14/2024 - 20:20:18: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "srm"
+L 01/14/2024 - 20:20:18: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "69 Recon srm"
+L 01/14/2024 - 20:20:38: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "zr68s"
+L 01/14/2024 - 20:20:38: "suna<8><STEAM_0:1:29157668><NSF>" say_team "28 Assault zr68s"
+L 01/14/2024 - 20:20:50: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "grenade_projectile"
+L 01/14/2024 - 20:20:50: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:20:51: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "-28 on rain"
+L 01/14/2024 - 20:20:58: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:20:58: "suna<8><STEAM_0:1:29157668><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:20:58: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "32 Assault zr68s"
+L 01/14/2024 - 20:20:59: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "supa7"
+L 01/14/2024 - 20:21:04: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "last 72"
+L 01/14/2024 - 20:21:08: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "assault"
+L 01/14/2024 - 20:21:12: "suna<8><STEAM_0:1:29157668><NSF>" say_team "!settings"
+L 01/14/2024 - 20:21:20: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say "!settings"
+L 01/14/2024 - 20:21:37: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "zr68c"
+L 01/14/2024 - 20:21:38: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "gj"
+L 01/14/2024 - 20:21:59: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "ill rush server"
+L 01/14/2024 - 20:22:22: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "supa7"
+L 01/14/2024 - 20:22:22: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "100 Recon supa7"
+L 01/14/2024 - 20:22:24: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:22:24: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:22:26: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "2 banana"
+L 01/14/2024 - 20:22:48: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "!pause"
+L 01/14/2024 - 20:22:53: "soft as HELL<12><STEAM_0:1:14747705><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "jittescoped"
+L 01/14/2024 - 20:22:53: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:22:53: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "100 Support jittescoped"
+L 01/14/2024 - 20:23:11: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "srm"
+L 01/14/2024 - 20:23:11: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "2 Recon srm"
+L 01/14/2024 - 20:23:14: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "milso"
+L 01/14/2024 - 20:23:14: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:23:19: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:23:19: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:24:32: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "im back"
+L 01/14/2024 - 20:25:05: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "ill go server mid"
+L 01/14/2024 - 20:25:25: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:25:44: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "me"
+L 01/14/2024 - 20:25:55: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "me"
+L 01/14/2024 - 20:26:41: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "grenade_projectile"
+L 01/14/2024 - 20:26:41: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say_team "100 Assault grenade_projectile"
+L 01/14/2024 - 20:26:51: "soft as HELL<12><STEAM_0:1:14747705><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "zr68c"
+L 01/14/2024 - 20:26:51: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "43 Support zr68c"
+L 01/14/2024 - 20:27:45: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:27:45: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:28:01: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "mx"
+L 01/14/2024 - 20:28:01: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "jittescoped"
+L 01/14/2024 - 20:28:01: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:28:01: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "100 Recon jittescoped"
+L 01/14/2024 - 20:28:07: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:28:07: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "36 Recon zr68s"
+L 01/14/2024 - 20:28:07: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "zr68s"
+L 01/14/2024 - 20:28:07: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:28:08: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:28:49: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "mx"
+L 01/14/2024 - 20:29:16: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "mx"
+L 01/14/2024 - 20:29:23: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "mx"
+L 01/14/2024 - 20:29:23: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "mx"
+L 01/14/2024 - 20:29:23: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "42 Support mx"
+L 01/14/2024 - 20:29:23: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "19 Support mx"
+L 01/14/2024 - 20:30:19: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "mx"
+L 01/14/2024 - 20:30:19: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "45 Assault mx"
+L 01/14/2024 - 20:30:24: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "2 banana"
+L 01/14/2024 - 20:30:26: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "pushing banana"
+L 01/14/2024 - 20:30:27: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "now"
+L 01/14/2024 - 20:30:28: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "assault"
+L 01/14/2024 - 20:30:47: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "mx"
+L 01/14/2024 - 20:30:47: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:30:47: "suna<8><STEAM_0:1:29157668><NSF>" say_team "42 Support mx"
+L 01/14/2024 - 20:31:05: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/14/2024 - 20:31:05: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "43 Assault mx"
+L 01/14/2024 - 20:31:10: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "mx"
+L 01/14/2024 - 20:31:10: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "43 Assault mx"
+L 01/14/2024 - 20:31:41: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "grenade_projectile"
+L 01/14/2024 - 20:31:56: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "zr68s"
+L 01/14/2024 - 20:31:56: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:31:56: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:31:57: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "mx"
+L 01/14/2024 - 20:31:57: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "22 Assault mx"
+L 01/14/2024 - 20:32:01: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "mx"
+L 01/14/2024 - 20:32:04: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "zr68s"
+L 01/14/2024 - 20:32:04: "suna<8><STEAM_0:1:29157668><NSF>" say_team "100 Assault zr68s"
+L 01/14/2024 - 20:32:12: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "mx"
+L 01/14/2024 - 20:32:12: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:32:21: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/14/2024 - 20:32:21: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "100 Support mx"
+L 01/14/2024 - 20:32:25: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "zr68s"
+L 01/14/2024 - 20:32:25: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say_team "22 Assault zr68s"
+L 01/14/2024 - 20:33:39: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "mx"
+L 01/14/2024 - 20:33:39: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:33:39: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say_team "100 Assault mx"
+L 01/14/2024 - 20:33:54: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "mx"
+L 01/14/2024 - 20:34:00: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "srm"
+L 01/14/2024 - 20:34:00: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:34:00: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "100 Recon srm"
+L 01/14/2024 - 20:34:03: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/14/2024 - 20:34:03: "soft as HELL<12><STEAM_0:1:14747705><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:34:03: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "mx"
+L 01/14/2024 - 20:34:03: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "37 Assault mx"
+L 01/14/2024 - 20:34:03: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "100 Assault mx"
+L 01/14/2024 - 20:34:04: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "srm"
+L 01/14/2024 - 20:34:04: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:34:06: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "ladder room"
+L 01/14/2024 - 20:34:08: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "1 ladder room"
+L 01/14/2024 - 20:34:09: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "banana"
+L 01/14/2024 - 20:34:11: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "banan ladder room"
+L 01/14/2024 - 20:34:13: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "assault"
+L 01/14/2024 - 20:34:18: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "mx"
+L 01/14/2024 - 20:34:18: "suna<8><STEAM_0:1:29157668><NSF>" say_team "23 Support mx"
+L 01/14/2024 - 20:34:20: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "gj"
+L 01/14/2024 - 20:35:12: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "srm"
+L 01/14/2024 - 20:35:12: "suna<8><STEAM_0:1:29157668><NSF>" say_team "28 Recon srm"
+L 01/14/2024 - 20:35:13: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "mx"
+L 01/14/2024 - 20:35:26: "soft as HELL<12><STEAM_0:1:14747705><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "mx"
+L 01/14/2024 - 20:35:26: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "81 Support mx"
+L 01/14/2024 - 20:35:29: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "..."
+L 01/14/2024 - 20:35:31: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "mx"
+L 01/14/2024 - 20:35:32: "suna<8><STEAM_0:1:29157668><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:35:33: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "2 in middle"
+L 01/14/2024 - 20:35:42: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "mx"
+L 01/14/2024 - 20:35:42: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:35:46: Team "Jinrai" triggered "ghost_capture_team"
+L 01/14/2024 - 20:35:46: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" triggered "ghost_capture"
+L 01/14/2024 - 20:35:49: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "wp"
+L 01/14/2024 - 20:35:58: "soft as HELL<12><STEAM_0:1:14747705><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/14/2024 - 20:35:58: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "1 Support mx"
+L 01/14/2024 - 20:36:26: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" with "jittescoped"
+L 01/14/2024 - 20:36:26: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "100 Recon jittescoped"
+L 01/14/2024 - 20:36:29: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "banana rush"
+L 01/14/2024 - 20:36:30: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "srm"
+L 01/14/2024 - 20:36:30: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "25 Recon srm"
+L 01/14/2024 - 20:36:31: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "suna"
+L 01/14/2024 - 20:36:40: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "aa13"
+L 01/14/2024 - 20:36:40: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:36:41: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say_team "79 Assault aa13"
+L 01/14/2024 - 20:36:45: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "mx"
+L 01/14/2024 - 20:36:47: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" killed "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" with "mx"
+L 01/14/2024 - 20:36:47: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say_team "100 Support mx"
+L 01/14/2024 - 20:36:50: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "recon banana still"
+L 01/14/2024 - 20:36:51: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "aa13"
+L 01/14/2024 - 20:36:51: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:36:56: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say_team "recon mx last"
+L 01/14/2024 - 20:36:58: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/14/2024 - 20:36:58: "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:36:58: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say_team "78 Recon mx"
+L 01/14/2024 - 20:36:59: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "mx"
+L 01/14/2024 - 20:37:00: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "28 Recon mx"
+L 01/14/2024 - 20:37:13: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "mx"
+L 01/14/2024 - 20:37:13: "suna<8><STEAM_0:1:29157668><NSF>" say_team "25 Recon mx"
+L 01/14/2024 - 20:37:53: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" killed "[GB] Agiel<10><STEAM_0:1:25025><NSF>" with "srm"
+L 01/14/2024 - 20:37:53: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" say_team "7 Recon srm"
+L 01/14/2024 - 20:38:02: "soft as HELL<12><STEAM_0:1:14747705><NSF>" killed "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" with "mx"
+L 01/14/2024 - 20:38:02: "[GB] Agiel<10><STEAM_0:1:25025><NSF>" triggered "kill_assist"
+L 01/14/2024 - 20:38:13: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" killed "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" with "supa7"
+L 01/14/2024 - 20:38:13: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:38:34: "suna<8><STEAM_0:1:29157668><NSF>" killed "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" with "mx"
+L 01/14/2024 - 20:38:34: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say_team "100 Recon mx"
+L 01/14/2024 - 20:38:36: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" killed "soft as HELL<12><STEAM_0:1:14747705><NSF>" with "mx"
+L 01/14/2024 - 20:38:36: "soft as HELL<12><STEAM_0:1:14747705><NSF>" say_team "74 Assault mx"
+L 01/14/2024 - 20:38:39: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" killed "suna<8><STEAM_0:1:29157668><NSF>" with "pz"
+L 01/14/2024 - 20:38:39: "suna<8><STEAM_0:1:29157668><NSF>" say_team "100 Support pz"
+L 01/14/2024 - 20:38:55: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" killed "[GB] Rain ☆彡<6><STEAM_0:0:15075092><NSF>" with "mx"
+L 01/14/2024 - 20:38:55: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" triggered "kill_assist"
+L 01/14/2024 - 20:38:58: "[MXican] Halcyon<5><STEAM_0:1:2864524><Jinrai>" say "GG"
+L 01/14/2024 - 20:38:59: "[GB] Puddy<11><STEAM_0:1:19453780><NSF>" say "gr"
+L 01/14/2024 - 20:39:01: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say "gg"
+L 01/14/2024 - 20:39:03: "[MXican] NeoTokyoScrub<9><STEAM_0:1:95715175><Jinrai>" say "gr"
+L 01/14/2024 - 20:39:16: "[MXican] Ghost Lizard<17><STEAM_0:1:20336729><Jinrai>" say "gh"
+L 01/14/2024 - 20:39:18: "[MXican] Boltronics<15><STEAM_0:1:84048595><Jinrai>" say "gh"
+L 01/14/2024 - 20:39:33: [META] Loaded 0 plugins (1 already loaded)
+L 01/14/2024 - 20:39:33: [META] Loaded 0 plugins (1 already loaded)
+L 01/14/2024 - 20:39:33: Log file closed

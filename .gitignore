@@ -3,3 +3,6 @@
 *.png
 release/*
 *.csv
+graphics/*
+/log-reader/ww23
+/manual processing

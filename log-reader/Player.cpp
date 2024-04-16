@@ -42,10 +42,11 @@ std::string Player::csv() const
 {
 	std::string output;
 	const unsigned int* origin = &kills;
-	for (int i = 0; i < 8; ++i)
+	constexpr unsigned int var_count = 8;
+	for (int i = 0; i < var_count; ++i)
 	{
-		char* buffer = new char[6];
-		sprintf_s(buffer, 6, "%d,", *(origin + i)); // pointer arithmetic is in size of base type
+		char* buffer = new char[var_count];
+		sprintf_s(buffer, var_count, "%d,", *(origin + i)); // pointer arithmetic is in size of base type
 		output += buffer;
 	}
 	return output;

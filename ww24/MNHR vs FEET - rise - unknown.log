@@ -1,0 +1,225 @@
+L 01/13/2024 - 16:52:17: Log file started (file "logs\L0113004.log") (game "z:\home\steam\steam\steamapps\common\nt\NeotokyoSource") (version "4044")
+L 01/13/2024 - 16:52:17: server_cvar: "sv_pausable" "0"
+L 01/13/2024 - 16:52:17: server_cvar: "sv_contact" "baux.site"
+L 01/13/2024 - 16:52:17: server_cvar: "sv_gravity" "800"
+L 01/13/2024 - 16:52:17: server_cvar: "mp_friendlyfire" "1"
+L 01/13/2024 - 16:52:18: "Scarf<8><STEAM_0:1:128469250><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:52:18: "[AUX-] Nutnoze<10><STEAM_0:1:9530793><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:52:20: "yoko<9><STEAM_0:0:33377178><>" entered the game
+L 01/13/2024 - 16:52:29: "[Casterazu] kinoko<6><STEAM_0:0:83067719><>" entered the game
+L 01/13/2024 - 16:52:45: "[Casterazu] kinoko<6><STEAM_0:0:83067719><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:53:06: "[AUX-] Nutnoze<12><STEAM_ID_PENDING><>" connected, address "38.49.79.50:41845"
+L 01/13/2024 - 16:53:06: "[AUX-] Nutnoze<12><STEAM_0:1:9530793><>" STEAM USERID validated
+L 01/13/2024 - 16:53:09: "[AUX-] Nutnoze<12><STEAM_0:1:9530793><>" entered the game
+L 01/13/2024 - 16:53:13: "[AUX-] Nutnoze<12><STEAM_0:1:9530793><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:53:49: "Izotop<13><STEAM_ID_PENDING><>" connected, address "213.110.253.237:2071"
+L 01/13/2024 - 16:53:49: "Izotop<13><STEAM_0:1:97975268><>" STEAM USERID validated
+L 01/13/2024 - 16:53:56: "Izotop<13><STEAM_0:1:97975268><>" entered the game
+L 01/13/2024 - 16:54:00: "Izotop<13><STEAM_0:1:97975268><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:54:06: "Scarf<14><STEAM_ID_PENDING><>" connected, address "73.115.74.180:27005"
+L 01/13/2024 - 16:54:06: "Scarf<14><STEAM_0:1:128469250><>" STEAM USERID validated
+L 01/13/2024 - 16:54:27: "Sero<15><STEAM_ID_PENDING><>" connected, address "24.61.46.227:27005"
+L 01/13/2024 - 16:54:27: "Sero<15><STEAM_0:1:46322305><>" STEAM USERID validated
+L 01/13/2024 - 16:54:31: "yoko<9><STEAM_0:0:33377178><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:54:31: "Sero<15><STEAM_0:1:46322305><>" entered the game
+L 01/13/2024 - 16:54:34: "Scarf<14><STEAM_0:1:128469250><>" disconnected (reason "Connection closing")
+L 01/13/2024 - 16:54:34: "Scarf<16><STEAM_ID_PENDING><>" connected, address "73.115.74.180:27005"
+L 01/13/2024 - 16:54:34: "Scarf<16><STEAM_0:1:128469250><>" STEAM USERID validated
+L 01/13/2024 - 16:54:35: "Sero<15><STEAM_0:1:46322305><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:54:38: "Scarf<16><STEAM_0:1:128469250><>" entered the game
+L 01/13/2024 - 16:55:20: "[FEET] drt<17><STEAM_ID_PENDING><>" connected, address "95.24.6.17:4731"
+L 01/13/2024 - 16:55:20: "[FEET] drt<17><STEAM_0:1:16721927><>" STEAM USERID validated
+L 01/13/2024 - 16:55:40: "Scarf<16><STEAM_0:1:128469250><Unassigned>" joined team "Jinrai"
+L 01/13/2024 - 16:55:45: "[FEET] drt<17><STEAM_0:1:16721927><>" entered the game
+L 01/13/2024 - 16:55:49: "[FEET] drt<17><STEAM_0:1:16721927><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:55:53: "Sero<15><STEAM_0:1:46322305><Spectator>" changed name to "[MNHR] Sero"
+L 01/13/2024 - 16:56:14: "Scarf<16><STEAM_0:1:128469250><Jinrai>" say "Testing"
+L 01/13/2024 - 16:56:20: "Izotop<13><STEAM_0:1:97975268><Spectator>" changed name to "[MNHR]Izotop"
+L 01/13/2024 - 16:56:21: "yoko<9><STEAM_0:0:33377178><Spectator>" changed name to "[MNHR]SENYOKO"
+L 01/13/2024 - 16:56:36: "[Cameraman] Oni<18><STEAM_ID_PENDING><>" connected, address "71.195.46.232:27005"
+L 01/13/2024 - 16:56:36: "[Cameraman] Oni<18><STEAM_0:1:10174276><>" STEAM USERID validated
+L 01/13/2024 - 16:56:41: "[Cameraman] Oni<18><STEAM_0:1:10174276><>" entered the game
+L 01/13/2024 - 16:56:44: "[Cameraman] Oni<18><STEAM_0:1:10174276><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:56:57: "[AUX-] Nutnoze<12><STEAM_0:1:9530793><Spectator>" changed name to "[CAST-] Nutnoze"
+L 01/13/2024 - 16:57:14: "[FEET] drt<17><STEAM_0:1:16721927><Spectator>" say "hey chat"
+L 01/13/2024 - 16:57:14: "[MNHR]SENYOKO<9><STEAM_0:0:33377178><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:57:22: "[MNHR] Sero<15><STEAM_0:1:46322305><Spectator>" joined team "NSF"
+L 01/13/2024 - 16:57:33: "[MNHR]SENYOKO<19><STEAM_ID_PENDING><>" connected, address "173.170.199.179:27005"
+L 01/13/2024 - 16:57:33: "[MNHR]SENYOKO<19><STEAM_0:0:33377178><>" STEAM USERID validated
+L 01/13/2024 - 16:57:36: "[MNHR]SENYOKO<19><STEAM_0:0:33377178><>" entered the game
+L 01/13/2024 - 16:57:41: "[MNHR]SENYOKO<19><STEAM_0:0:33377178><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:57:43: "[MNHR]SENYOKO<19><STEAM_0:0:33377178><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:57:54: "[MNHR]SENYOKO<20><STEAM_ID_PENDING><>" connected, address "173.170.199.179:27005"
+L 01/13/2024 - 16:57:54: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><>" STEAM USERID validated
+L 01/13/2024 - 16:57:55: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><>" entered the game
+L 01/13/2024 - 16:57:58: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:58:16: "[MNHR] Sero<15><STEAM_0:1:46322305><NSF>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:58:32: "[MNHR] Sero<21><STEAM_ID_PENDING><>" connected, address "24.61.46.227:27005"
+L 01/13/2024 - 16:58:32: "[MNHR] Sero<21><STEAM_0:1:46322305><>" STEAM USERID validated
+L 01/13/2024 - 16:58:33: "[MNHR] Sero<21><STEAM_0:1:46322305><>" entered the game
+L 01/13/2024 - 16:58:36: "[MNHR] Sero<21><STEAM_0:1:46322305><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 16:58:51: "Scarf<16><STEAM_0:1:128469250><Jinrai>" changed name to "[MNHR] Scarf"
+L 01/13/2024 - 16:58:55: "[MNHR] Scarf<16><STEAM_0:1:128469250><Jinrai>" say "Testing"
+L 01/13/2024 - 16:58:59: "[FEET]Jinhai<22><STEAM_ID_PENDING><>" connected, address "149.140.195.107:46251"
+L 01/13/2024 - 16:58:59: "[FEET]Jinhai<22><STEAM_0:1:120740110><>" STEAM USERID validated
+L 01/13/2024 - 16:59:00: "[FEET]Jinhai<22><STEAM_0:1:120740110><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:59:04: "[FEET]Jinhai<23><STEAM_ID_PENDING><>" connected, address "149.140.195.107:46251"
+L 01/13/2024 - 16:59:04: "[FEET]Jinhai<23><STEAM_0:1:120740110><>" STEAM USERID validated
+L 01/13/2024 - 16:59:04: "[FEET]Jinhai<23><STEAM_0:1:120740110><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:59:10: "[MNHR]Izotop<13><STEAM_0:1:97975268><Spectator>" changed name to "[MNHR] Izotop"
+L 01/13/2024 - 16:59:11: "[MNHR] Syz<24><STEAM_ID_PENDING><>" connected, address "2.123.149.232:27005"
+L 01/13/2024 - 16:59:11: "[MNHR] Syz<24><STEAM_0:0:82019396><>" STEAM USERID validated
+L 01/13/2024 - 16:59:19: "[FEET]Neotokyonup<25><STEAM_ID_PENDING><>" connected, address "212.253.167.72:8789"
+L 01/13/2024 - 16:59:20: "[FEET]Neotokyonup<25><STEAM_0:1:541542866><>" STEAM USERID validated
+L 01/13/2024 - 16:59:20: "[FEET]Neotokyonup<25><STEAM_0:1:541542866><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 16:59:34: "[MNHR] Syz<24><STEAM_0:0:82019396><>" entered the game
+L 01/13/2024 - 16:59:44: "[MNHR] Syz<24><STEAM_0:0:82019396><Unassigned>" joined team "NSF"
+L 01/13/2024 - 17:00:00: "[MNHR] Scarf<16><STEAM_0:1:128469250><Jinrai>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 17:00:05: "[MNHR] Scarf<26><STEAM_ID_PENDING><>" connected, address "73.115.74.180:27005"
+L 01/13/2024 - 17:00:05: "[MNHR] Scarf<26><STEAM_0:1:128469250><>" STEAM USERID validated
+L 01/13/2024 - 17:00:05: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" say "are we all going to spec?"
+L 01/13/2024 - 17:00:07: "[MNHR] Scarf<26><STEAM_0:1:128469250><>" entered the game
+L 01/13/2024 - 17:00:09: "[MNHR] Scarf<26><STEAM_0:1:128469250><Unassigned>" joined team "NSF"
+L 01/13/2024 - 17:00:18: "[MNHR] Izotop<13><STEAM_0:1:97975268><Spectator>" joined team "NSF"
+L 01/13/2024 - 17:00:19: "[MNHR] Sero<21><STEAM_0:1:46322305><Spectator>" joined team "NSF"
+L 01/13/2024 - 17:00:26: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><Spectator>" joined team "NSF"
+L 01/13/2024 - 17:01:13: "[FEET]Jinhai<27><STEAM_ID_PENDING><>" connected, address "149.140.195.107:46251"
+L 01/13/2024 - 17:01:13: "[FEET]Jinhai<27><STEAM_0:1:120740110><>" STEAM USERID validated
+L 01/13/2024 - 17:01:28: "[FEET]Jinhai<27><STEAM_0:1:120740110><>" entered the game
+L 01/13/2024 - 17:01:30: "[FEET]Jinhai<27><STEAM_0:1:120740110><Unassigned>" joined team "Jinrai"
+L 01/13/2024 - 17:02:01: "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" joined team "Unassigned"
+L 01/13/2024 - 17:02:03: "[MNHR] Scarf<26><STEAM_0:1:128469250><Unassigned>" joined team "NSF"
+L 01/13/2024 - 17:02:07: "[FEET] drt<17><STEAM_0:1:16721927><Spectator>" joined team "Jinrai"
+L 01/13/2024 - 17:02:33: "[FEET]Neotokyonup<28><STEAM_ID_PENDING><>" connected, address "212.253.167.72:8789"
+L 01/13/2024 - 17:02:33: "[FEET]Neotokyonup<28><STEAM_0:1:541542866><>" STEAM USERID validated
+L 01/13/2024 - 17:02:51: "[FEET] jav<29><STEAM_ID_PENDING><>" connected, address "176.42.128.20:11430"
+L 01/13/2024 - 17:02:51: "[FEET] jav<29><STEAM_0:1:155763328><>" STEAM USERID validated
+L 01/13/2024 - 17:02:59: "[FEET]Neotokyonup<28><STEAM_0:1:541542866><>" disconnected (reason "Disconnect by user.")
+L 01/13/2024 - 17:03:20: "[FEET] jav<29><STEAM_0:1:155763328><>" entered the game
+L 01/13/2024 - 17:04:03: "[FEET] jav<29><STEAM_0:1:155763328><Unassigned>" joined team "Jinrai"
+L 01/13/2024 - 17:08:11: "[FEET]Neotokyonup<30><STEAM_ID_PENDING><>" connected, address "212.253.167.72:8789"
+L 01/13/2024 - 17:08:11: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><>" STEAM USERID validated
+L 01/13/2024 - 17:08:15: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><>" entered the game
+L 01/13/2024 - 17:08:42: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Unassigned>" joined team "Jinrai"
+L 01/13/2024 - 17:11:35: "[MXican] Below Average<31><STEAM_ID_PENDING><>" connected, address "76.133.237.17:27005"
+L 01/13/2024 - 17:11:35: "[MXican] Below Average<31><STEAM_0:1:17526508><>" STEAM USERID validated
+L 01/13/2024 - 17:11:52: "[MXican] Below Average<31><STEAM_0:1:17526508><>" entered the game
+L 01/13/2024 - 17:11:55: "[MXican] Below Average<31><STEAM_0:1:17526508><Unassigned>" joined team "Spectator"
+L 01/13/2024 - 17:11:57: "[MXican] Below Average<31><STEAM_0:1:17526508><Spectator>" joined team "Jinrai"
+L 01/13/2024 - 17:12:07: "[MXican] Below Average<31><STEAM_0:1:17526508><Jinrai>" changed name to "[FOOT] Wahaha-"
+L 01/13/2024 - 17:12:30: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "you have so much to live for"
+L 01/13/2024 - 17:12:33: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "!ready"
+L 01/13/2024 - 17:12:38: "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" say "!ready"
+L 01/13/2024 - 17:12:38: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" say "!ready"
+L 01/13/2024 - 17:12:39: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" say "!ready"
+L 01/13/2024 - 17:12:41: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" say_team "!ready"
+L 01/13/2024 - 17:12:41: "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" say "!ready"
+L 01/13/2024 - 17:12:43: "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" say "!ready"
+L 01/13/2024 - 17:12:45: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" say "!ready"
+L 01/13/2024 - 17:12:48: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "!readylist"
+L 01/13/2024 - 17:12:53: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" say_team "!ready"
+L 01/13/2024 - 17:13:07: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" say "i love wahs tag"
+L 01/13/2024 - 17:13:08: "[CAST-] Nutnoze<12><STEAM_0:1:9530793><Spectator>" say "!readylist"
+L 01/13/2024 - 17:13:14: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" say "!ready"
+L 01/13/2024 - 17:14:20: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "grenade_projectile"
+L 01/13/2024 - 17:14:45: "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "zr68s"
+L 01/13/2024 - 17:14:45: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:15:01: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "supa7"
+L 01/13/2024 - 17:15:06: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "zr68s"
+L 01/13/2024 - 17:15:16: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "zr68c"
+L 01/13/2024 - 17:15:25: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" say "ok we won the match, next map pls"
+L 01/13/2024 - 17:16:27: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "supa7"
+L 01/13/2024 - 17:16:30: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "supa7"
+L 01/13/2024 - 17:16:34: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:16:36: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "zr68c"
+L 01/13/2024 - 17:16:36: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" triggered "kill_assist"
+L 01/13/2024 - 17:16:45: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "zr68s"
+L 01/13/2024 - 17:16:45: "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:17:24: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" with "zr68c"
+L 01/13/2024 - 17:17:25: "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "zr68s"
+L 01/13/2024 - 17:17:27: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" with "zr68c"
+L 01/13/2024 - 17:17:48: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "OVERTIME"
+L 01/13/2024 - 17:17:50: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "OVERKILL"
+L 01/13/2024 - 17:17:59: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "zr68s"
+L 01/13/2024 - 17:18:51: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "zr68s"
+L 01/13/2024 - 17:18:53: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "zr68c"
+L 01/13/2024 - 17:19:08: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" with "mpn"
+L 01/13/2024 - 17:19:53: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "kyla"
+L 01/13/2024 - 17:19:53: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:20:01: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "kyla"
+L 01/13/2024 - 17:20:03: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "zr68c"
+L 01/13/2024 - 17:20:03: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "zr68c"
+L 01/13/2024 - 17:20:24: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" say "merc life RIP"
+L 01/13/2024 - 17:21:05: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:21:11: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "zr68s"
+L 01/13/2024 - 17:21:17: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "grenade_projectile"
+L 01/13/2024 - 17:21:20: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "tachi"
+L 01/13/2024 - 17:21:20: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:21:25: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" with "srm"
+L 01/13/2024 - 17:21:34: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "zr68s"
+L 01/13/2024 - 17:21:38: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "srm"
+L 01/13/2024 - 17:21:39: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "AW"
+L 01/13/2024 - 17:21:41: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "close"
+L 01/13/2024 - 17:21:45: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "mx"
+L 01/13/2024 - 17:21:45: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:22:46: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "mx"
+L 01/13/2024 - 17:23:31: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "mx"
+L 01/13/2024 - 17:23:38: Team "Jinrai" triggered "ghost_capture_team"
+L 01/13/2024 - 17:23:38: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" triggered "ghost_capture"
+L 01/13/2024 - 17:23:38: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:23:38: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:23:44: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:25:14: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "aa13"
+L 01/13/2024 - 17:25:14: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:25:16: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:25:26: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "mx_silenced"
+L 01/13/2024 - 17:25:26: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:25:28: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:25:28: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" triggered "kill_assist"
+L 01/13/2024 - 17:25:45: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "mx"
+L 01/13/2024 - 17:25:45: "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "kyla"
+L 01/13/2024 - 17:25:47: "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "mx_silenced"
+L 01/13/2024 - 17:25:47: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "aa13"
+L 01/13/2024 - 17:26:39: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "mx"
+L 01/13/2024 - 17:26:43: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:26:45: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "mx"
+L 01/13/2024 - 17:26:56: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "mx"
+L 01/13/2024 - 17:27:01: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:27:03: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "mx"
+L 01/13/2024 - 17:27:09: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "mx"
+L 01/13/2024 - 17:28:03: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "mx"
+L 01/13/2024 - 17:28:11: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "mx"
+L 01/13/2024 - 17:28:15: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:28:15: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" triggered "kill_assist"
+L 01/13/2024 - 17:28:17: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "aa13"
+L 01/13/2024 - 17:28:36: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "aa13"
+L 01/13/2024 - 17:28:40: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "mx_silenced"
+L 01/13/2024 - 17:28:40: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:29:31: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] jav<29><STEAM_0:1:155763328><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:29:35: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:29:35: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" triggered "kill_assist"
+L 01/13/2024 - 17:29:35: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" with "grenade_projectile"
+L 01/13/2024 - 17:29:35: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "aa13"
+L 01/13/2024 - 17:29:39: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:29:45: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "not like this bros....."
+L 01/13/2024 - 17:29:50: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "mx"
+L 01/13/2024 - 17:29:50: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" say_team "aw hell na"
+L 01/13/2024 - 17:30:01: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "grenade_projectile"
+L 01/13/2024 - 17:30:02: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "mx"
+L 01/13/2024 - 17:30:42: "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" killed "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" with "zr68s"
+L 01/13/2024 - 17:30:42: "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" triggered "kill_assist"
+L 01/13/2024 - 17:31:31: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR] Syz<24><STEAM_0:0:82019396><NSF>" with "aa13"
+L 01/13/2024 - 17:31:34: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" killed "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" with "aa13"
+L 01/13/2024 - 17:31:50: "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" killed "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" with "srm"
+L 01/13/2024 - 17:31:53: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "aa why"
+L 01/13/2024 - 17:32:04: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Izotop<13><STEAM_0:1:97975268><NSF>" with "pz"
+L 01/13/2024 - 17:32:26: "[FEET]Neotokyonup<30><STEAM_0:1:541542866><Jinrai>" killed "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" with "mx_silenced"
+L 01/13/2024 - 17:32:26: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" triggered "kill_assist"
+L 01/13/2024 - 17:32:38: "[FEET]Jinhai<27><STEAM_0:1:120740110><Jinrai>" killed "[MNHR] Sero<21><STEAM_0:1:46322305><NSF>" with "pz"
+L 01/13/2024 - 17:32:44: "[FOOT] Wahaha-<31><STEAM_0:1:17526508><Jinrai>" say "gg"
+L 01/13/2024 - 17:32:46: "[MNHR]SENYOKO<20><STEAM_0:0:33377178><NSF>" say "GG(▰˘◡˘▰)WP"
+L 01/13/2024 - 17:32:47: "[FEET] drt<17><STEAM_0:1:16721927><Jinrai>" say "told ya next map"
+L 01/13/2024 - 17:32:50: "[MNHR] Scarf<26><STEAM_0:1:128469250><NSF>" say "gg"
+L 01/13/2024 - 17:33:09: [META] Loaded 0 plugins (1 already loaded)
+L 01/13/2024 - 17:33:09: [META] Loaded 0 plugins (1 already loaded)
+L 01/13/2024 - 17:33:09: Log file closed

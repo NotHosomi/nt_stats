@@ -1,0 +1,148 @@
+L 01/21/2024 - 19:46:23: Log file started (file "logs\L0121061.log") (game "z:\home\steam\steam\steamapps\common\nt\NeotokyoSource") (version "4044")
+L 01/21/2024 - 19:46:23: server_cvar: "sv_pausable" "0"
+L 01/21/2024 - 19:46:23: server_cvar: "sv_contact" "baux.site"
+L 01/21/2024 - 19:46:23: server_cvar: "sv_gravity" "800"
+L 01/21/2024 - 19:46:23: server_cvar: "mp_friendlyfire" "1"
+L 01/21/2024 - 19:46:58: "[DYS] bauxite<2><STEAM_ID_PENDING><>" connected, address "86.13.114.58:27005"
+L 01/21/2024 - 19:46:58: "[DYS] bauxite<2><STEAM_0:0:5757747><>" STEAM USERID validated
+L 01/21/2024 - 19:46:59: "[DYS] bauxite<2><STEAM_0:0:5757747><>" entered the game
+L 01/21/2024 - 19:47:01: "[DYS] bauxite<2><STEAM_0:0:5757747><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:49:14: "[TagsR4Nerds] Average<3><STEAM_ID_PENDING><>" connected, address "88.101.41.79:27005"
+L 01/21/2024 - 19:49:14: "[TagsR4Nerds] Average<3><STEAM_0:1:57251237><>" STEAM USERID validated
+L 01/21/2024 - 19:49:19: "[TagsR4Nerds] Average<3><STEAM_0:1:57251237><>" entered the game
+L 01/21/2024 - 19:50:16: "[DYS] Infrequent<4><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/21/2024 - 19:50:16: "[DYS] Infrequent<4><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/21/2024 - 19:50:17: "[TagsR4Nerds] Average<3><STEAM_0:1:57251237><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:50:23: "[DYS] Infrequent<4><STEAM_0:1:6384081><>" entered the game
+L 01/21/2024 - 19:50:25: "[DYS] Infrequent<4><STEAM_0:1:6384081><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:50:29: "[DYS] Infrequent<4><STEAM_0:1:6384081><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 19:50:33: "[TagsR4Nerds] Average<3><STEAM_0:1:57251237><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 19:50:35: "[GB] Agiel<5><STEAM_ID_PENDING><>" connected, address "98.128.173.190:27005"
+L 01/21/2024 - 19:50:35: "[GB] Agiel<5><STEAM_0:1:25025><>" STEAM USERID validated
+L 01/21/2024 - 19:50:51: "[DYS] Infrequent<6><STEAM_ID_PENDING><>" connected, address "86.169.55.78:27005"
+L 01/21/2024 - 19:50:51: "[DYS] Infrequent<6><STEAM_0:1:6384081><>" STEAM USERID validated
+L 01/21/2024 - 19:50:53: "[DYS] Infrequent<6><STEAM_0:1:6384081><>" entered the game
+L 01/21/2024 - 19:50:55: "[DYS] Infrequent<6><STEAM_0:1:6384081><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:51:26: "[GB] Agiel<5><STEAM_0:1:25025><>" entered the game
+L 01/21/2024 - 19:51:30: "[DYS] bauxite<2><STEAM_0:0:5757747><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 19:51:31: "[GB] Agiel<5><STEAM_0:1:25025><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:52:18: "Bolty<7><STEAM_ID_PENDING><>" connected, address "84.106.144.11:27005"
+L 01/21/2024 - 19:52:19: "Bolty<7><STEAM_0:1:84048595><>" STEAM USERID validated
+L 01/21/2024 - 19:52:20: "[MXican] talibus<8><STEAM_ID_PENDING><>" connected, address "83.28.173.138:14045"
+L 01/21/2024 - 19:52:20: "[MXican] talibus<8><STEAM_0:0:15980775><>" STEAM USERID validated
+L 01/21/2024 - 19:52:24: "Bolty<7><STEAM_0:1:84048595><>" entered the game
+L 01/21/2024 - 19:52:29: "Bolty<7><STEAM_0:1:84048595><Unassigned>" joined team "NSF"
+L 01/21/2024 - 19:52:54: "[MXican] talibus<8><STEAM_0:0:15980775><>" entered the game
+L 01/21/2024 - 19:52:57: "[MXican] Halcyon<9><STEAM_ID_PENDING><>" connected, address "90.190.160.61:27005"
+L 01/21/2024 - 19:52:57: "[MXican] Halcyon<9><STEAM_0:1:2864524><>" STEAM USERID validated
+L 01/21/2024 - 19:53:07: "[MXican] Halcyon<9><STEAM_0:1:2864524><>" entered the game
+L 01/21/2024 - 19:53:11: "[MXican] Halcyon<9><STEAM_0:1:2864524><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 19:53:13: "[MXican] talibus<8><STEAM_0:0:15980775><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:53:26: "[MXican] talibus<8><STEAM_0:0:15980775><Spectator>" say "nominate"
+L 01/21/2024 - 19:53:26: "Bolty<7><STEAM_0:1:84048595><NSF>" changed name to "[MXican] MaJesTiC"
+L 01/21/2024 - 19:53:31: "[MXican] talibus<8><STEAM_0:0:15980775><Spectator>" say_team "rtv"
+L 01/21/2024 - 19:53:57: "[MXican] kinoko<10><STEAM_ID_PENDING><>" connected, address "76.133.237.17:27005"
+L 01/21/2024 - 19:53:57: "[MXican] kinoko<10><STEAM_0:1:17526508><>" STEAM USERID validated
+L 01/21/2024 - 19:54:04: "[MXican] kinoko<10><STEAM_0:1:17526508><>" entered the game
+L 01/21/2024 - 19:54:06: "PyromaniacG<11><STEAM_ID_PENDING><>" connected, address "67.173.109.245:27005"
+L 01/21/2024 - 19:54:06: "PyromaniacG<11><STEAM_0:1:25398391><>" STEAM USERID validated
+L 01/21/2024 - 19:54:06: "[MXican] kinoko<10><STEAM_0:1:17526508><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:54:11: "[DYS] Infrequent<6><STEAM_0:1:6384081><Spectator>" changed name to "[CAST] Infrequent"
+L 01/21/2024 - 19:54:28: "[MXican] kinoko<10><STEAM_0:1:17526508><Spectator>" changed name to "[MXican] Moffin"
+L 01/21/2024 - 19:54:55: "[MXican] Moffin<10><STEAM_0:1:17526508><Spectator>" changed name to "[MXican] bauxite"
+L 01/21/2024 - 19:55:25: "neotokyosnoodism<12><STEAM_ID_PENDING><>" connected, address "82.9.152.139:27005"
+L 01/21/2024 - 19:55:25: "neotokyosnoodism<12><STEAM_0:1:47222322><>" STEAM USERID validated
+L 01/21/2024 - 19:55:45: "PyromaniacG<11><STEAM_0:1:25398391><>" entered the game
+L 01/21/2024 - 19:55:56: "neotokyosnoodism<12><STEAM_0:1:47222322><>" entered the game
+L 01/21/2024 - 19:56:00: "neotokyosnoodism<12><STEAM_0:1:47222322><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 19:56:06: "PyromaniacG<11><STEAM_0:1:25398391><>" disconnected (reason "Connection closing")
+L 01/21/2024 - 19:56:06: "PyromaniacG<13><STEAM_ID_PENDING><>" connected, address "67.173.109.245:27005"
+L 01/21/2024 - 19:56:06: "PyromaniacG<13><STEAM_0:1:25398391><>" STEAM USERID validated
+L 01/21/2024 - 19:56:09: "PyromaniacG<13><STEAM_0:1:25398391><>" entered the game
+L 01/21/2024 - 19:56:13: "PyromaniacG<13><STEAM_0:1:25398391><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 19:56:26: "[MXican] Halcyon<9><STEAM_0:1:2864524><Jinrai>" say "!nominate"
+L 01/21/2024 - 19:56:31: "[MXican] Halcyon<9><STEAM_0:1:2864524><Jinrai>" say "rtv"
+L 01/21/2024 - 19:56:32: "[MXican] Ghost Lizard<14><STEAM_ID_PENDING><>" connected, address "87.2.131.118:27005"
+L 01/21/2024 - 19:56:32: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><>" STEAM USERID validated
+L 01/21/2024 - 19:56:33: "neotokyosnoodism<12><STEAM_0:1:47222322><Jinrai>" say "we rise"
+L 01/21/2024 - 19:56:35: "PyromaniacG<13><STEAM_0:1:25398391><Jinrai>" changed name to "[=]PyromaniacG"
+L 01/21/2024 - 19:56:36: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><>" entered the game
+L 01/21/2024 - 19:56:39: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 19:56:51: "neotokyosnoodism<12><STEAM_0:1:47222322><Jinrai>" changed name to "[=]neotokyosnood"
+L 01/21/2024 - 19:57:00: "[=]PyromaniacG<13><STEAM_0:1:25398391><Jinrai>" say "RISE up against society"
+L 01/21/2024 - 19:57:07: "[=]PyromaniacG<13><STEAM_0:1:25398391><Jinrai>" say "bottom text"
+L 01/21/2024 - 19:58:27: "[MXican] bauxite<10><STEAM_0:1:17526508><Spectator>" joined team "NSF"
+L 01/21/2024 - 19:58:29: "[TagsR4Nerds] Average<15><STEAM_ID_PENDING><>" connected, address "88.101.41.79:27005"
+L 01/21/2024 - 19:58:29: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><>" STEAM USERID validated
+L 01/21/2024 - 19:58:30: "[MXican] Halcyon<9><STEAM_0:1:2864524><Jinrai>" say "!S"
+L 01/21/2024 - 19:58:30: "[MXican] Halcyon<9><STEAM_0:1:2864524><Jinrai>" committed suicide with "player"
+L 01/21/2024 - 19:58:30: "[MXican] Halcyon<9><STEAM_0:1:2864524><Jinrai>" joined team "Spectator"
+L 01/21/2024 - 19:58:33: "[MXican] Halcyon<9><STEAM_0:1:2864524><Spectator>" joined team "NSF"
+L 01/21/2024 - 19:58:34: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><>" entered the game
+L 01/21/2024 - 19:58:36: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><Spectator>" say "!n"
+L 01/21/2024 - 19:58:36: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><Spectator>" joined team "NSF"
+L 01/21/2024 - 19:58:36: "[MXican] Halcyon<9><STEAM_0:1:2864524><NSF>" say "RTV"
+L 01/21/2024 - 19:58:40: "[MXican] bauxite<10><STEAM_0:1:17526508><NSF>" say "!rtv"
+L 01/21/2024 - 19:58:40: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><NSF>" say "rtv"
+L 01/21/2024 - 19:58:40: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 19:59:27: "[MXican] Nevra<16><STEAM_ID_PENDING><>" connected, address "91.160.146.84:1923"
+L 01/21/2024 - 19:59:27: "[MXican] Nevra<16><STEAM_0:1:87689215><>" STEAM USERID validated
+L 01/21/2024 - 19:59:40: "[MXican] Nevra<16><STEAM_0:1:87689215><>" entered the game
+L 01/21/2024 - 19:59:56: "[MXican] Nevra<16><STEAM_0:1:87689215><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 20:00:19: "[FEET] Serbian Guy<17><STEAM_ID_PENDING><>" connected, address "31.5.202.161:27005"
+L 01/21/2024 - 20:00:20: "[FEET] Serbian Guy<17><STEAM_0:1:91548287><>" STEAM USERID validated
+L 01/21/2024 - 20:00:32: "[FEET] Serbian Guy<17><STEAM_0:1:91548287><>" entered the game
+L 01/21/2024 - 20:00:37: "[FEET] Serbian Guy<17><STEAM_0:1:91548287><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 20:00:39: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Jinrai>" say "seems like we might end up having to do merc"
+L 01/21/2024 - 20:00:47: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Jinrai>" say "no one is responding for 5th spot yet "
+L 01/21/2024 - 20:00:52: "[MXican] talibus<8><STEAM_0:0:15980775><Spectator>" joined team "NSF"
+L 01/21/2024 - 20:00:52: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "get sakhan"
+L 01/21/2024 - 20:00:53: "[MXican] talibus<8><STEAM_0:0:15980775><NSF>" joined team "Unassigned"
+L 01/21/2024 - 20:00:54: "[MXican] talibus<8><STEAM_0:0:15980775><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 20:00:57: "[MXican] talibus<8><STEAM_0:0:15980775><Spectator>" joined team "NSF"
+L 01/21/2024 - 20:00:59: "[FEET] Serbian Guy<17><STEAM_0:1:91548287><Spectator>" say "good luck boyz lizard u already got ur practice in last game"
+L 01/21/2024 - 20:01:06: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><NSF>" say ":DD"
+L 01/21/2024 - 20:01:06: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say "§S"
+L 01/21/2024 - 20:01:09: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" say "!s"
+L 01/21/2024 - 20:01:09: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" committed suicide with "player"
+L 01/21/2024 - 20:01:09: "[MXican] Nevra<16><STEAM_0:1:87689215><Jinrai>" joined team "Spectator"
+L 01/21/2024 - 20:01:16: "[MXican] Nevra<16><STEAM_0:1:87689215><Spectator>" joined team "NSF"
+L 01/21/2024 - 20:01:36: "[MXican] Halcyon<9><STEAM_0:1:2864524><NSF>" say "we have one spare"
+L 01/21/2024 - 20:01:54: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "the other people were active earlier "
+L 01/21/2024 - 20:02:01: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "they must not see it "
+L 01/21/2024 - 20:02:25: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Jinrai>" say "wakfu should be joining soon but it seems like 5th is missing"
+L 01/21/2024 - 20:02:33: "[MXican] bauxite<10><STEAM_0:1:17526508><NSF>" say "i can merc"
+L 01/21/2024 - 20:02:38: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "naww"
+L 01/21/2024 - 20:02:42: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "rfl"
+L 01/21/2024 - 20:02:48: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "we have other people on the gc just dunno where they are "
+L 01/21/2024 - 20:02:57: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "it wouldn't be fair to take an oppossing member as a merc"
+L 01/21/2024 - 20:03:33: "[MXican] bauxite<10><STEAM_0:1:17526508><NSF>" say "6 v 3"
+L 01/21/2024 - 20:03:38: "[MXican] bauxite<10><STEAM_0:1:17526508><NSF>" say "we stand a chance"
+L 01/21/2024 - 20:03:40: "[=]PyromaniacG<13><STEAM_0:1:25398391><Jinrai>" say "lets gooo"
+L 01/21/2024 - 20:03:44: "[MXican] Halcyon<9><STEAM_0:1:2864524><NSF>" say "shut up bauxite"
+L 01/21/2024 - 20:03:49: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "iyanas pc died and laptop ran out"
+L 01/21/2024 - 20:03:57: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "or some shit "
+L 01/21/2024 - 20:04:11: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "no"
+L 01/21/2024 - 20:04:13: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "iyana cant join but taka said he would"
+L 01/21/2024 - 20:04:14: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "only win and losses count"
+L 01/21/2024 - 20:04:22: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "wakfu is coming"
+L 01/21/2024 - 20:04:25: "[MXican] talibus<8><STEAM_0:0:15980775><NSF>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 20:05:33: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Jinrai>" say "marterzon said he can merc, that fine with you guys?"
+L 01/21/2024 - 20:05:49: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "I would like sakhan more"
+L 01/21/2024 - 20:05:55: "[MXican] bauxite<10><STEAM_0:1:17526508><NSF>" say "im fine with martz"
+L 01/21/2024 - 20:06:00: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "im fine with  marter"
+L 01/21/2024 - 20:06:00: "[TagsR4Nerds] Average<15><STEAM_0:1:57251237><Jinrai>" say "man where the f uck is sakhan anyway "
+L 01/21/2024 - 20:06:03: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "xD"
+L 01/21/2024 - 20:06:55: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "!nominate"
+L 01/21/2024 - 20:06:56: "[CAST] syncer<18><STEAM_ID_PENDING><>" connected, address "86.158.221.59:27005"
+L 01/21/2024 - 20:06:57: "[CAST] syncer<18><STEAM_0:0:88962302><>" STEAM USERID validated
+L 01/21/2024 - 20:07:01: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "!rtv"
+L 01/21/2024 - 20:07:02: "[CAST] syncer<18><STEAM_0:0:88962302><>" entered the game
+L 01/21/2024 - 20:07:06: "[CAST] Infrequent<6><STEAM_0:1:6384081><Spectator>" say "!sm_admin"
+L 01/21/2024 - 20:07:07: "[=]neotokyosnood<12><STEAM_0:1:47222322><Jinrai>" say "!rtv"
+L 01/21/2024 - 20:07:07: "[CAST] syncer<18><STEAM_0:0:88962302><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 20:07:09: "[MXican] Ghost Lizard<14><STEAM_0:1:20336729><NSF>" say "rtv"
+L 01/21/2024 - 20:07:12: "[MXican] MaJesTiC<7><STEAM_0:1:84048595><NSF>" say "shoutout to oni-samaaaa"
+L 01/21/2024 - 20:07:14: [META] Loaded 0 plugins (1 already loaded)
+L 01/21/2024 - 20:07:14: [META] Loaded 0 plugins (1 already loaded)
+L 01/21/2024 - 20:07:14: Log file closed

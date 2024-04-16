@@ -1,0 +1,243 @@
+L 01/21/2024 - 17:05:54: Log file started (file "logs\L0121053.log") (game "z:\home\steam\steam\steamapps\common\nt\NeotokyoSource") (version "4044")
+L 01/21/2024 - 17:05:54: server_cvar: "sv_pausable" "0"
+L 01/21/2024 - 17:05:54: server_cvar: "sv_contact" "baux.site"
+L 01/21/2024 - 17:05:54: server_cvar: "sv_gravity" "800"
+L 01/21/2024 - 17:05:54: server_cvar: "mp_friendlyfire" "1"
+L 01/21/2024 - 17:05:56: "[ikko] Dommy<5><STEAM_0:1:15299509><>" entered the game
+L 01/21/2024 - 17:05:57: "[GB] Agiel<2><STEAM_0:1:25025><>" entered the game
+L 01/21/2024 - 17:05:58: "[DYS] bauxite<3><STEAM_0:0:5757747><>" entered the game
+L 01/21/2024 - 17:05:58: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><>" entered the game
+L 01/21/2024 - 17:05:58: "[Ikko] MISO<8><STEAM_0:1:23585170><>" entered the game
+L 01/21/2024 - 17:05:59: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><>" entered the game
+L 01/21/2024 - 17:05:59: "[ikko] Dommy<5><STEAM_0:1:15299509><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:06:04: "[Ikko] 3LOW<13><STEAM_ID_PENDING><>" connected, address "67.181.173.131:27005"
+L 01/21/2024 - 17:06:04: "[Ikko] 3LOW<13><STEAM_0:0:67890711><>" STEAM USERID validated
+L 01/21/2024 - 17:06:04: "[Ikko] 3LOW<13><STEAM_0:0:67890711><>" disconnected (reason "Connection closing")
+L 01/21/2024 - 17:06:04: "[Ikko] 3LOW<14><STEAM_ID_PENDING><>" connected, address "67.181.173.131:27005"
+L 01/21/2024 - 17:06:04: "[Ikko] 3LOW<14><STEAM_0:0:67890711><>" STEAM USERID validated
+L 01/21/2024 - 17:06:07: "[Ikko] 3LOW<14><STEAM_0:0:67890711><>" entered the game
+L 01/21/2024 - 17:06:07: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:06:10: "[GB] Agiel<2><STEAM_0:1:25025><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:06:13: "[Ikko] 3LOW<14><STEAM_0:0:67890711><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:06:14: "[Ikko] MISO<8><STEAM_0:1:23585170><Unassigned>" joined team "NSF"
+L 01/21/2024 - 17:06:16: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><Spectator>" changed name to "[Ikko] The Undead Corpse brb 2 "
+L 01/21/2024 - 17:06:32: "[FEET] Kasietti<6><STEAM_0:0:181630571><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:06:35: "[FEET] Kasietti<15><STEAM_ID_PENDING><>" connected, address "88.235.169.212:27005"
+L 01/21/2024 - 17:06:35: "[FEET] Kasietti<15><STEAM_0:0:181630571><>" STEAM USERID validated
+L 01/21/2024 - 17:06:37: "[ikko] Dommy<5><STEAM_0:1:15299509><Spectator>" joined team "NSF"
+L 01/21/2024 - 17:06:37: "[FEET] jav<9><STEAM_0:1:155763328><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:06:37: "[FEET] Serbian Guy<10><STEAM_0:1:91548287><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:06:37: "[FEET]Jinhai<11><STEAM_0:1:120740110><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:06:42: "[FEET] Serbian Guy<16><STEAM_ID_PENDING><>" connected, address "31.5.202.161:27005"
+L 01/21/2024 - 17:06:42: "[FEET] Serbian Guy<16><STEAM_0:1:91548287><>" STEAM USERID validated
+L 01/21/2024 - 17:06:45: "[FEET] jav<17><STEAM_ID_PENDING><>" connected, address "176.42.128.20:10905"
+L 01/21/2024 - 17:06:45: "[FEET] jav<17><STEAM_0:1:155763328><>" STEAM USERID validated
+L 01/21/2024 - 17:06:52: "[FEET] Kasietti<15><STEAM_0:0:181630571><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:06:57: "[Ikko] MISO<8><STEAM_0:1:23585170><NSF>" changed name to "[Ikko] BRBISO"
+L 01/21/2024 - 17:07:10: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><Unassigned>" joined team "NSF"
+L 01/21/2024 - 17:07:12: "[Ikko] 3LOW<14><STEAM_0:0:67890711><Spectator>" joined team "NSF"
+L 01/21/2024 - 17:07:25: "[FEET] Serbian Guy<16><STEAM_0:1:91548287><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:07:28: "[FEET] jav<17><STEAM_0:1:155763328><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:07:33: "[Ikko] The Undead Corpse brb 2 <7><STEAM_0:1:32621880><Spectator>" changed name to "[Ikko] The Undead Corpse"
+L 01/21/2024 - 17:07:39: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><Spectator>" joined team "NSF"
+L 01/21/2024 - 17:07:48: "[DYS] bauxite<3><STEAM_0:0:5757747><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:07:55: "[FEET] Serbian Guy<18><STEAM_ID_PENDING><>" connected, address "31.5.202.161:27005"
+L 01/21/2024 - 17:07:55: "[FEET] Serbian Guy<18><STEAM_0:1:91548287><>" STEAM USERID validated
+L 01/21/2024 - 17:07:57: "[FEET] Serbian Guy<18><STEAM_0:1:91548287><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:08:07: "[FEET] Kasietti<19><STEAM_ID_PENDING><>" connected, address "88.235.169.212:27005"
+L 01/21/2024 - 17:08:07: "[FEET] Kasietti<19><STEAM_0:0:181630571><>" STEAM USERID validated
+L 01/21/2024 - 17:08:21: "[FEET] Kasietti<19><STEAM_0:0:181630571><>" entered the game
+L 01/21/2024 - 17:08:24: "[FEET] Kasietti<19><STEAM_0:0:181630571><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 17:08:30: "[FEET] jav<20><STEAM_ID_PENDING><>" connected, address "176.42.128.20:10905"
+L 01/21/2024 - 17:08:30: "[FEET] jav<20><STEAM_0:1:155763328><>" STEAM USERID validated
+L 01/21/2024 - 17:08:36: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "teatokyo"
+L 01/21/2024 - 17:08:52: "[FEET] jav<20><STEAM_0:1:155763328><>" entered the game
+L 01/21/2024 - 17:08:55: "[FEET] jav<20><STEAM_0:1:155763328><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 17:09:12: "[FEET]Jinhai<21><STEAM_ID_PENDING><>" connected, address "78.168.213.201:27005"
+L 01/21/2024 - 17:09:12: "[FEET]Jinhai<21><STEAM_0:1:120740110><>" STEAM USERID validated
+L 01/21/2024 - 17:09:20: "[FEET]Jinhai<21><STEAM_0:1:120740110><>" entered the game
+L 01/21/2024 - 17:09:22: "[Ikko] BRBISO<8><STEAM_0:1:23585170><NSF>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:09:22: "[Ikko] BRBISO<22><STEAM_ID_PENDING><>" connected, address "95.53.144.67:27005"
+L 01/21/2024 - 17:09:22: "[Ikko] BRBISO<22><STEAM_0:1:23585170><>" STEAM USERID validated
+L 01/21/2024 - 17:09:23: "[MNHR] Syz<23><STEAM_ID_PENDING><>" connected, address "90.213.209.147:27005"
+L 01/21/2024 - 17:09:23: "[MNHR] Syz<23><STEAM_0:0:82019396><>" STEAM USERID validated
+L 01/21/2024 - 17:09:24: "[Ikko] BRBISO<22><STEAM_0:1:23585170><>" entered the game
+L 01/21/2024 - 17:09:25: "[FEET] Serbian Guy<24><STEAM_ID_PENDING><>" connected, address "31.5.202.161:27005"
+L 01/21/2024 - 17:09:26: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><>" STEAM USERID validated
+L 01/21/2024 - 17:09:26: "[Ikko] BRBISO<22><STEAM_0:1:23585170><Unassigned>" joined team "NSF"
+L 01/21/2024 - 17:09:28: "[FEET]Jinhai<21><STEAM_0:1:120740110><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 17:09:37: "[Ikko] BRBISO<22><STEAM_0:1:23585170><NSF>" changed name to "[Ikko] MISO"
+L 01/21/2024 - 17:09:39: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><>" entered the game
+L 01/21/2024 - 17:09:42: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Unassigned>" joined team "Jinrai"
+L 01/21/2024 - 17:10:06: "[MNHR] Syz<23><STEAM_0:0:82019396><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:10:11: "[Merc] Ghost Lizard<25><STEAM_ID_PENDING><>" connected, address "87.2.131.118:27005"
+L 01/21/2024 - 17:10:11: "[Merc] Ghost Lizard<25><STEAM_0:1:20336729><>" STEAM USERID validated
+L 01/21/2024 - 17:10:43: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "commentary team i hope you guys are having fun "
+L 01/21/2024 - 17:10:51: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "thanks for streaming casters"
+L 01/21/2024 - 17:10:53: "[Merc] Ghost Lizard<25><STEAM_0:1:20336729><>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:10:59: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "get ready for some NTaction!"
+L 01/21/2024 - 17:11:25: "[CAST] syncer<26><STEAM_ID_PENDING><>" connected, address "86.158.221.59:27005"
+L 01/21/2024 - 17:11:25: "[CAST] syncer<26><STEAM_0:0:88962302><>" STEAM USERID validated
+L 01/21/2024 - 17:11:30: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "TGR Fuel gaming"
+L 01/21/2024 - 17:11:31: "[CAST] syncer<26><STEAM_0:0:88962302><>" entered the game
+L 01/21/2024 - 17:11:34: "[CAST] syncer<26><STEAM_0:0:88962302><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:12:39: "[Merc] Ghost Lizard<27><STEAM_ID_PENDING><>" connected, address "87.2.131.118:27005"
+L 01/21/2024 - 17:12:39: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><>" STEAM USERID validated
+L 01/21/2024 - 17:12:47: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><>" entered the game
+L 01/21/2024 - 17:12:51: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:12:54: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Spectator>" joined team "Jinrai"
+L 01/21/2024 - 17:13:00: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "mmhh NT raytracing"
+L 01/21/2024 - 17:13:59: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "game start?"
+L 01/21/2024 - 17:14:01: "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" say "!ready"
+L 01/21/2024 - 17:14:03: "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" say "!ready"
+L 01/21/2024 - 17:14:04: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "!ready"
+L 01/21/2024 - 17:14:04: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "!ready"
+L 01/21/2024 - 17:14:05: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" say "!ready"
+L 01/21/2024 - 17:14:06: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" say "!ready"
+L 01/21/2024 - 17:14:07: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say "!ready"
+L 01/21/2024 - 17:14:07: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" say "!ready"
+L 01/21/2024 - 17:14:20: "[DYS] bauxite<3><STEAM_0:0:5757747><Spectator>" disconnected (reason "Disconnect by user.")
+L 01/21/2024 - 17:15:03: Team "Jinrai" triggered "ghost_capture_team"
+L 01/21/2024 - 17:15:03: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" triggered "ghost_capture"
+L 01/21/2024 - 17:15:23: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "!ready"
+L 01/21/2024 - 17:15:26: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "!readylist"
+L 01/21/2024 - 17:15:39: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "lego "
+L 01/21/2024 - 17:15:41: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "ready yup"
+L 01/21/2024 - 17:15:41: "[MNHR] Syz<28><STEAM_ID_PENDING><>" connected, address "90.213.209.147:27005"
+L 01/21/2024 - 17:15:41: "[MNHR] Syz<28><STEAM_0:0:82019396><>" STEAM USERID validated
+L 01/21/2024 - 17:15:46: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "Who isn't ready?"
+L 01/21/2024 - 17:15:46: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say ":P"
+L 01/21/2024 - 17:15:49: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "ahaha "
+L 01/21/2024 - 17:16:05: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "messing with you :£"
+L 01/21/2024 - 17:16:08: "[MNHR] Syz<28><STEAM_0:0:82019396><>" entered the game
+L 01/21/2024 - 17:16:12: "[MNHR] Syz<28><STEAM_0:0:82019396><Unassigned>" joined team "Spectator"
+L 01/21/2024 - 17:16:23: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "shoutout to stream chat, check legs!"""
+L 01/21/2024 - 17:17:08: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" say "!ready"
+L 01/21/2024 - 17:17:09: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" say "gl hf "
+L 01/21/2024 - 17:17:12: "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" say "gl"
+L 01/21/2024 - 17:17:12: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" say "gl hf ^^"
+L 01/21/2024 - 17:17:13: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "gl hf"
+L 01/21/2024 - 17:17:13: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "gl hf"
+L 01/21/2024 - 17:17:18: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" say_team "glhf"
+L 01/21/2024 - 17:17:22: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "glhf"
+L 01/21/2024 - 17:17:42: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "srm"
+L 01/21/2024 - 17:17:43: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:17:50: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "supa7"
+L 01/21/2024 - 17:18:04: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "srm"
+L 01/21/2024 - 17:18:17: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "srm"
+L 01/21/2024 - 17:18:17: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "52 Recon srm"
+L 01/21/2024 - 17:18:30: Team "NSF" triggered "ghost_capture_team"
+L 01/21/2024 - 17:18:30: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" triggered "ghost_capture"
+L 01/21/2024 - 17:18:33: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:19:17: "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" killed "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" with "zr68s"
+L 01/21/2024 - 17:19:17: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" say_team "100 Assault zr68s"
+L 01/21/2024 - 17:19:18: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "grenade_projectile"
+L 01/21/2024 - 17:19:18: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "grenade_projectile"
+L 01/21/2024 - 17:19:18: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "100 Assault grenade_projectile"
+L 01/21/2024 - 17:19:30: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:19:33: Team "NSF" triggered "ghost_capture_team"
+L 01/21/2024 - 17:19:33: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" triggered "ghost_capture"
+L 01/21/2024 - 17:19:33: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "srm"
+L 01/21/2024 - 17:19:48: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "milso"
+L 01/21/2024 - 17:19:48: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:20:16: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "jittescoped"
+L 01/21/2024 - 17:20:19: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:20:20: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "milso"
+L 01/21/2024 - 17:20:31: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "mx"
+L 01/21/2024 - 17:20:36: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "jittescoped"
+L 01/21/2024 - 17:20:36: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:20:37: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "100 Recon jittescoped"
+L 01/21/2024 - 17:21:22: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "jittescoped"
+L 01/21/2024 - 17:21:24: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "jittescoped"
+L 01/21/2024 - 17:21:27: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "srm"
+L 01/21/2024 - 17:21:31: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "jittescoped"
+L 01/21/2024 - 17:21:41: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" with "srm"
+L 01/21/2024 - 17:21:44: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "mx"
+L 01/21/2024 - 17:21:44: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "100 Assault mx"
+L 01/21/2024 - 17:21:46: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "mx"
+L 01/21/2024 - 17:22:28: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:22:28: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "83 Assault zr68s"
+L 01/21/2024 - 17:22:30: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" with "grenade_projectile"
+L 01/21/2024 - 17:22:30: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" say_team "85 Assault grenade_projectile"
+L 01/21/2024 - 17:22:33: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "mx"
+L 01/21/2024 - 17:22:36: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "zr68c"
+L 01/21/2024 - 17:22:38: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "mx"
+L 01/21/2024 - 17:22:54: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" with "srm"
+L 01/21/2024 - 17:22:57: Team "NSF" triggered "ghost_capture_team"
+L 01/21/2024 - 17:22:57: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" triggered "ghost_capture"
+L 01/21/2024 - 17:23:12: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "milso"
+L 01/21/2024 - 17:23:44: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "aa13"
+L 01/21/2024 - 17:23:46: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "srm"
+L 01/21/2024 - 17:23:53: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "tachi"
+L 01/21/2024 - 17:23:54: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "m41s"
+L 01/21/2024 - 17:23:58: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:23:58: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "100 Assault zr68s"
+L 01/21/2024 - 17:24:24: Team "NSF" triggered "ghost_capture_team"
+L 01/21/2024 - 17:24:24: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" triggered "ghost_capture"
+L 01/21/2024 - 17:24:30: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "mx"
+L 01/21/2024 - 17:25:07: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" with "jittescoped"
+L 01/21/2024 - 17:25:08: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" with "srm"
+L 01/21/2024 - 17:25:08: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "grenade_projectile"
+L 01/21/2024 - 17:25:13: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:25:20: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "m41s"
+L 01/21/2024 - 17:25:23: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:25:23: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:25:28: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "mx"
+L 01/21/2024 - 17:26:10: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" with "m41s"
+L 01/21/2024 - 17:26:11: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:26:11: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "71 Assault zr68s"
+L 01/21/2024 - 17:26:19: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" say "!fov 90"
+L 01/21/2024 - 17:26:25: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "nice ambush liz"
+L 01/21/2024 - 17:26:39: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say "thx :DD"
+L 01/21/2024 - 17:26:40: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "!fov 90"
+L 01/21/2024 - 17:26:43: "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" say "!fov"
+L 01/21/2024 - 17:26:55: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "m41s"
+L 01/21/2024 - 17:26:55: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:26:56: "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" killed "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" with "zr68c"
+L 01/21/2024 - 17:26:56: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "grenade_projectile"
+L 01/21/2024 - 17:26:56: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:26:58: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "jittescoped"
+L 01/21/2024 - 17:27:19: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" with "jittescoped"
+L 01/21/2024 - 17:27:31: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:27:31: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "100 Assault zr68s"
+L 01/21/2024 - 17:27:44: Team "Jinrai" triggered "ghost_capture_team"
+L 01/21/2024 - 17:27:44: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" triggered "ghost_capture"
+L 01/21/2024 - 17:27:46: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "grenade_projectile"
+L 01/21/2024 - 17:27:46: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:27:46: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:28:08: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" say "comeback time"
+L 01/21/2024 - 17:28:15: "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" say "shrimple as that"
+L 01/21/2024 - 17:28:30: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" killed "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" with "supa7"
+L 01/21/2024 - 17:28:34: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" killed "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" with "m41s"
+L 01/21/2024 - 17:28:41: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" killed "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" with "mx_silenced"
+L 01/21/2024 - 17:28:45: "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" killed "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" with "mx"
+L 01/21/2024 - 17:28:49: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" with "mx"
+L 01/21/2024 - 17:29:13: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" killed "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" with "mx"
+L 01/21/2024 - 17:29:24: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:29:24: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:29:59: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:29:59: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:30:03: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" killed "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" with "zr68s"
+L 01/21/2024 - 17:30:03: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" triggered "kill_assist"
+L 01/21/2024 - 17:30:03: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say_team "19 Assault zr68s"
+L 01/21/2024 - 17:30:06: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "gg"
+L 01/21/2024 - 17:30:08: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say "gg"
+L 01/21/2024 - 17:30:08: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" say "gg"
+L 01/21/2024 - 17:30:08: "[Ikko] The Undead Corpse<7><STEAM_0:1:32621880><NSF>" say "gg wp"
+L 01/21/2024 - 17:30:08: "[FEET] jav<20><STEAM_0:1:155763328><Jinrai>" say "gg"
+L 01/21/2024 - 17:30:10: "[Ikko] 3LOW<14><STEAM_0:0:67890711><NSF>" say "gg"
+L 01/21/2024 - 17:30:11: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "gg"
+L 01/21/2024 - 17:30:11: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" say "wp "
+L 01/21/2024 - 17:30:13: "[FEET]Jinhai<21><STEAM_0:1:120740110><Jinrai>" say "unshrimple as that"
+L 01/21/2024 - 17:30:13: "[Merc] Ghost Lizard<27><STEAM_0:1:20336729><Jinrai>" say "didn't manage to swap weapon fast enough"
+L 01/21/2024 - 17:30:25: "[FEET] Kasietti<19><STEAM_0:0:181630571><Jinrai>" say "warmup match"
+L 01/21/2024 - 17:30:27: "[Ikko] MISO<22><STEAM_0:1:23585170><NSF>" say "lego the clutch king "
+L 01/21/2024 - 17:30:28: "[FEET] Serbian Guy<24><STEAM_0:1:91548287><Jinrai>" say "map2?"
+L 01/21/2024 - 17:30:29: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "elevator can be iffy for weapon change"
+L 01/21/2024 - 17:30:34: "[ikko] The_Legoracer<4><STEAM_0:1:38534131><NSF>" say "ggs"
+L 01/21/2024 - 17:30:38: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "so you guys just did this to play oliostaqin, right?"
+L 01/21/2024 - 17:31:02: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "wil change to culvert, okay?"
+L 01/21/2024 - 17:31:04: "[ikko] Dommy<5><STEAM_0:1:15299509><NSF>" say "!admin"
+L 01/21/2024 - 17:31:13: [META] Loaded 0 plugins (1 already loaded)
+L 01/21/2024 - 17:31:13: [META] Loaded 0 plugins (1 already loaded)
+L 01/21/2024 - 17:31:13: Log file closed
